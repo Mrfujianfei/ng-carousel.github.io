@@ -4578,6 +4578,7 @@ function _tryDefineProperty(obj, prop, desc, originalConfigurableFlag) {
                 }
                 console.log("Attempting to configure '" + prop + "' with descriptor '" + descJson + "' on object '" + obj + "' and got error, giving up: " + error);
             }
+            
         }
         else {
             throw error;
