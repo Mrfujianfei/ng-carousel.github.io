@@ -30,7 +30,7 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\r\n.box {\r\n    width: 100%;\r\n    height: 100%;\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: center;\r\n    align-items: center;\r\n    margin-bottom: 100px;\r\n    /* background: radial-gradient(rgba(0,0,0,0) 50%,rgba(0,0,0,1)); */\r\n}\r\n\r\n.box> div:nth-of-type(1){\r\n    width: 100%;\r\n    background: #EEEEEE;\r\n    display: flex;\r\n    height: 180px;\r\n    justify-content: center;\r\n    align-items: center;\r\n    flex-direction: column;\r\n}\r\n\r\n.box> div:nth-of-type(1) p{\r\n    font-size: 18px;\r\n    margin-bottom: 30px;\r\n}"
+module.exports = "\r\n.box {\r\n    width: 100%;\r\n    height: 100%;\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: center;\r\n    align-items: center;\r\n    margin-bottom: 100px;\r\n    /* background: radial-gradient(rgba(0,0,0,0) 50%,rgba(0,0,0,1)); */\r\n}\r\n.box h1{\r\n    text-shadow: 1px 2px 2px rgba(0,0,0,.4);\r\n}\r\n.box> div:nth-of-type(1){\r\n    width: 100%;\r\n    background: #EEEEEE;\r\n    display: flex;\r\n    height: 180px;\r\n    justify-content: center;\r\n    align-items: center;\r\n    flex-direction: column;\r\n}\r\n.box> div:nth-of-type(1) p{\r\n    font-size: 18px;\r\n    margin-bottom: 33px;\r\n    color: rgba(0,0,0,.4);\r\n    text-shadow: 1px 1px 1px rgba(0,0,0,.2);\r\n}"
 
 /***/ }),
 
