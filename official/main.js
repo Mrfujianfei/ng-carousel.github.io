@@ -66,20 +66,18 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
         this.data = [
-            'assets/a1.jpeg',
-            'assets/a2.jpeg',
-            'assets/a3.jpeg',
-            'assets/a4.jpeg',
-            'assets/a5.jpeg',
-            'assets/a6.jpeg',
+            'assets/a1.jpg',
+            'assets/a2.jpg',
+            'assets/a3.jpg',
+            'assets/a4.jpg',
+            'assets/a5.jpg',
         ];
         this.data2 = [
-            'assets/a4.jpeg',
-            'assets/a5.jpeg',
-            'assets/a1.jpeg',
-            'assets/a2.jpeg',
-            'assets/a3.jpeg',
-            'assets/a6.jpeg',
+            'assets/a4.jpg',
+            'assets/a5.jpg',
+            'assets/a3.jpg',
+            'assets/a6.jpg',
+            'assets/a2.jpg',
         ];
         this.data_cube = [
             'assets/b1.jpg',
@@ -90,10 +88,7 @@ var AppComponent = /** @class */ (function () {
             'assets/b6.jpg',
         ];
         this.data_cube2 = [
-            'assets/b4.jpg',
             'assets/b5.jpg',
-            'assets/b6.jpg',
-            'assets/b1.jpg',
             'assets/b2.jpg',
             'assets/b3.jpg',
         ];
@@ -249,8 +244,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/platform-browser-dynamic */ "./node_modules/@angular/platform-browser-dynamic/fesm5/platform-browser-dynamic.js");
 /* harmony import */ var _app_app_module__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./app/app.module */ "./src/app/app.module.ts");
 /* harmony import */ var _environments_environment__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./environments/environment */ "./src/environments/environment.ts");
-
-
 
 
 

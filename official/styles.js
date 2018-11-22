@@ -18,7 +18,6 @@ module.exports = "/* You can add global styles to this file, and also import oth
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-	
 /*
 	MIT License http://www.opensource.org/licenses/mit-license.php
 	Author Tobias Koppers @sokra
